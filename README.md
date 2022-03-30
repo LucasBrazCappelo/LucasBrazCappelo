@@ -20,7 +20,7 @@ We obtained good results by implementing a variation of the famous U-Net, very e
 
 Using Unity for simulation, we trained cars (a little Fully-Connected Neural Network) to complete a circuit.  
 We launched 100 independent cars (and their network) by round and we calculated their score according to the distance covered on the course and their time.
-We used a genetic algorithm for optimization phase, .  
+We used a simple genetic algorithm for optimization phase.  
 The results were very satisfactory, with a good convergence, we quickly reached the end of the circuit. By saving the best network and reintroducing it in a new circuit, it obtained good results too, thus letting appear a good generalization.   
 <img src="GeneticAlgo/Result.jpg" alt="Genetic Algo Result" width="500"/> <img src="GeneticAlgo/Learning.jpg" alt="Genetic Algo" width="500"/>
 - A personal project of video game on Super Nintendo coded directly in assembly.  
