@@ -1,11 +1,12 @@
 ### Hi! I'm Lucas Braz, a fifth year engineering student on Master's exchange at EPFL.
-[<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/) **I'm Looking for a 3 to 9 months internship starting in September 2022 as a end
-of studies project.**   
+#### I study Computer science, signal and image processing and machine learning.   
+[<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/) **I'm Looking for a 3 to 9 months internship starting in September 2022 as a end of studies project.**   
 *Willing to relocate in Europe, Switzerland, US or Canada*.  
 
 I'm deeply passionated by Artificial Intelligence and it's transversal applications especially multi-agent simulations and computer vision.   
-More generally, I am interested in epistemology and sciences, I enjoy math, algorithmic problems and simulation modeling.   
-I intend to work as a Deep Learning Research Engineer.  
+I enjoy maths, algorithmic problems and simulation modeling.   
+More generally, I am interested in consciousness and moral analytic philosophical questions, epistemology and sciences.     
+**I intend to work as a Deep Learning Research Engineer.**  
 
 #### Here are some projects that I have done:
 - [ML_EPFL_Project_2](www.github.com/LucasBrazCappelo/ML_EPFL_Project_2)
