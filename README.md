@@ -1,6 +1,5 @@
 ### Hi! I'm Lucas Braz, a fifth year engineering student on Master's exchange at EPFL.
-[<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/)   
-**I'm Looking for a 3 to 9 months internship starting in September 2022 as a end
+[<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/) **I'm Looking for a 3 to 9 months internship starting in September 2022 as a end
 of studies project.**   
 *Willing to relocate in Europe, Switzerland, US or Canada*.  
 
