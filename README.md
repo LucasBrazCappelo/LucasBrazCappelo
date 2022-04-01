@@ -18,7 +18,7 @@ We obtained good results by implementing a variation of the famous U-Net, very e
 <img src="https://github.com/LucasBrazCappelo/ML_EPFL_Project_2/blob/main/report/figures/output_test.png" alt=U-Net width="500">   
 - A second year AI project about Autonomous Vehicules
 
-Using Unity for simulation, we trained cars (a little Fully-Connected Neural Network) to complete a circuit.  
+Using Unity for simulation, we trained cars (a little Fully-Connected Neural Network. The distance of the cars to the walls according to several angles in input, the direction and the speed in output) to complete a circuit.  
 We launched 100 independent cars (and their network) by round and we calculated their score according to the distance covered on the course and their time.
 We used a simple genetic algorithm for optimization phase.  
 The results were very satisfactory, with a good convergence, we quickly reached the end of the circuit. By saving the best network and reintroducing it in a new circuit, it obtained good results too, thus letting appear a good generalization.   
