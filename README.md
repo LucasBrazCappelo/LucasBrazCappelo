@@ -9,7 +9,7 @@ More generally, I am interested in consciousness and moral analytic philosophica
 **I intend to work as a Deep Learning Research Engineer.**  
 
 #### Here are some projects that I have done:
-- [ML_EPFL_Project_2](www.github.com/LucasBrazCappelo/ML_EPFL_Project_2)
+- [ML_EPFL_Project_2](https://www.github.com/LucasBrazCappelo/ML_EPFL_Project_2)
 
 A Convolutional Neural Network in Pytorch to perform semantic segmentation of roads on satellite images.  
 My first Pytorch project, after some personal classification projects using numpy where I implemented all BackProp computations by matrix calculation with Numpy.   
