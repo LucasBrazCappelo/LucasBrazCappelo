@@ -1,6 +1,6 @@
-### Hi! I'm Lucas Braz, a fifth year engineering student on Master's exchange at EPFL.
+### Hi! I'm Lucas Braz, a fifth year engineering student at CPE Lyon with one year of Master exchange at EPFL.
 #### I study Computer science, signal and image processing and machine learning.   
-[<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/) **I'm Looking for a 3 to 9 months internship starting in September 2022 as a end of studies project.**   
+[<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/) **I'm Looking for a 6 months internship starting in March 2023 as a end of studies project.**   
 *Willing to relocate in Europe, Switzerland, US or Canada*.  
 
 I'm deeply passionated by Artificial Intelligence and it's transversal applications especially multi-agent simulations and computer vision.   
@@ -36,6 +36,6 @@ A C++ and Qt project of Maze generation and solving with different exploration a
 <img src="https://github.com/Maxlo24/Project_CPP_4ETI/blob/main/ExploAlgoMaze.png" alt="Maze" width="500"/>                                  
    
    
-**But also, in bulk (not exhaustive)**: Simulations of physical phenomena by PDE and ODE, a small project of 3D game on GPU with OpenGL in C++, image denoising, image compression, a multithreaded Game of Life of Conway project in Python (Tk), a project of Data Analysis accessible [here](https://kallebju.github.io/ada-website/), a front-end website accessible [here](https://github.com/MathieuLeclercq/site-de-voyage), a Space Invaders Game in Python (Tk) accesible [here](https://github.com/MathieuLeclercq/Space-Invaders-)...   
+**But also, in bulk (not exhaustive)**: Simulations of physical phenomena by PDE and ODE, a small project of 3D game on GPU with OpenGL in C++, image denoising, image compression, a multithreaded Game of Life of Conway project in Python (Tk), a project of Data Analysis accessible [here](https://kallebju.github.io/ada-website/), a front-end website accessible [here](https://github.com/MathieuLeclercq/site-de-voyage), a Space Invaders Game in Python (Tk) accesible [here](https://github.com/MathieuLeclercq/Space-Invaders-), a Data Science project on large databases with **PySpark**...   
    
-I am **currently working on other projects**, such as a **movie recommendation algorithm** project in Scala and a Data Science project on large databases with **PySpark**. I am also **starting a Reinforcement Learning project**. *I will add these projects here when they will be completed.*
+I recently completed two more projects: a **movie recommendation algorithm** project in Scala and a **Deep Reinforcement Learning project**. *I will add these projects here after completing their READMEs.*
