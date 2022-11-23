@@ -5,7 +5,7 @@ Currently **Deep Learning Research Engineer Intern** at **CNRS** (**CREATIS labo
 [<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/)**I'm Looking for a 6 months internship starting in March 2023 as a end of studies project.**   
 *Willing to relocate in Europe, Switzerland, US or Canada*.  
 
-I'm deeply passionated by Artificial Intelligence and it's transversal applications especially for multi-agent simulations and computer vision tasks.   
+I'm deeply passionate by Artificial Intelligence and it's transversal applications especially for multi-agent simulations and computer vision tasks.   
 I enjoy maths, algorithmic problems and simulation modeling.   
 More generally, I am interested in consciousness and moral analytic philosophical questions, epistemology and sciences.    
 
