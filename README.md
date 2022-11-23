@@ -20,7 +20,7 @@ My first Pytorch project, after some personal classification projects using nump
 We obtained good results by implementing a variation of the famous **U-Net**, very efficient for semantic classification.   
 *Click on the link above for more details.*    
 <img src="https://github.com/LucasBrazCappelo/ML_EPFL_Project_2/blob/main/report/figures/output_test.png" alt=U-Net width="500">   
-- A second year AI project about Autonomous Vehicules
+- An AI project about Autonomous Vehicules
 
 Using Unity for simulation, we trained cars (a little Fully-Connected Neural Network. The distance of the cars to the walls according to several angles in input, the direction and the speed in output) to complete a circuit.  
 We launched 100 independent cars (and their network) by round and we calculated their score according to the distance covered on the course and their time.
@@ -47,7 +47,7 @@ A C++ and Qt project of Maze generation and solving with different exploration a
 - Computer Vision or Image Processing task: image denoising, image compression...
 - a multithreaded Game of Life of Conway project in Python (Tk)
 - a Data Analysis project accessible on this website: https://kallebju.github.io/ada-website/
-- a front-end website accessible [here](https://github.com/MathieuLeclercq/site-de-voyage)
-- a Space Invaders Game in Python (Tk) accesible [here](https://github.com/MathieuLeclercq/Space-Invaders-)
+- a front-end Travel website (achieved during Bachelor) accessible [here](https://github.com/MathieuLeclercq/site-de-voyage)
+- a Space Invaders Game in Python with Tk (achieved during Bachelor) accessible [here](https://github.com/MathieuLeclercq/Space-Invaders-)
 - a Multimodal Robust Route Planner for the Zürich area: Data Science project on large databases with **PySpark**.
 - a **movie recommender system** project in Scala and **Spark** accessible [here](https://www.github.com/LucasBrazCappelo/MovieRecommenderSystem)
