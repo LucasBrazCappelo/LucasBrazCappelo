@@ -1,19 +1,23 @@
-### Hi! I'm Lucas Braz, a fifth year engineering student at CPE Lyon with one year of Master exchange at EPFL.
-#### I study Computer science, signal and image processing and machine learning.   
-[<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/) **I'm Looking for a 6 months internship starting in March 2023 as a end of studies project.**   
+### Hi! I'm Lucas Braz, a fifth year engineering student (MSc) at CPE Lyon with one year of Master exchange at EPFL.
+Currently **Deep Learning Research Engineer Intern** at **CNRS** (**CREATIS laboratory**).   
+**I study Computer science, signal and image processing and machine learning.**  
+
+[<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/)**I'm Looking for a 6 months internship starting in March 2023 as a end of studies project.**   
 *Willing to relocate in Europe, Switzerland, US or Canada*.  
 
-I'm deeply passionated by Artificial Intelligence and it's transversal applications especially multi-agent simulations and computer vision.   
+I'm deeply passionated by Artificial Intelligence and it's transversal applications especially for multi-agent simulations and computer vision tasks.   
 I enjoy maths, algorithmic problems and simulation modeling.   
-More generally, I am interested in consciousness and moral analytic philosophical questions, epistemology and sciences.     
-**I intend to work as a Deep Learning Research Engineer.**  
+More generally, I am interested in consciousness and moral analytic philosophical questions, epistemology and sciences.    
+
+**I intend to work as a Deep Learning Research Engineer.**   
+*Or Deep Learning Research Scientist if I apply for a PhD.*  
 
 #### Here are some projects that I have done:
 - [ML_EPFL_Project_2](https://www.github.com/LucasBrazCappelo/ML_EPFL_Project_2)
 
-A Convolutional Neural Network in Pytorch to perform semantic segmentation of roads on satellite images.  
+A Convolutional Neural Network with **Pytorch** to perform semantic segmentation of roads on satellite images.  
 My first Pytorch project, after some personal classification projects using numpy where I implemented all BackProp computations by matrix calculation with Numpy.   
-We obtained good results by implementing a variation of the famous U-Net, very efficient for semantic classification.   
+We obtained good results by implementing a variation of the famous **U-Net**, very efficient for semantic classification.   
 *Click on the link above for more details.*    
 <img src="https://github.com/LucasBrazCappelo/ML_EPFL_Project_2/blob/main/report/figures/output_test.png" alt=U-Net width="500">   
 - A second year AI project about Autonomous Vehicules
@@ -36,6 +40,14 @@ A C++ and Qt project of Maze generation and solving with different exploration a
 <img src="https://github.com/Maxlo24/Project_CPP_4ETI/blob/main/ExploAlgoMaze.png" alt="Maze" width="500"/>                                  
    
    
-**But also, in bulk (not exhaustive)**: Simulations of physical phenomena by PDE and ODE, a small project of 3D game on GPU with OpenGL in C++, image denoising, image compression, a multithreaded Game of Life of Conway project in Python (Tk), a project of Data Analysis accessible [here](https://kallebju.github.io/ada-website/), a front-end website accessible [here](https://github.com/MathieuLeclercq/site-de-voyage), a Space Invaders Game in Python (Tk) accesible [here](https://github.com/MathieuLeclercq/Space-Invaders-), a Data Science project on large databases with **PySpark**...   
-   
-I recently completed two more projects: a **movie recommendation algorithm** project in Scala and a **Deep Reinforcement Learning project**. *I will add these projects here after completing their READMEs.*
+**But also, in bulk (not exhaustive)**:
+- a **Deep Reinforcement Learning project** accessible [here](https://www.github.com/LucasBrazCappelo/ReinforcementLearningProject).
+- Simulations of physical phenomena by PDE and ODE
+- a small project of 3D game on GPU with OpenGL in C++
+- Computer Vision or Image Processing task as image denoising, image compression...
+- a multithreaded Game of Life of Conway project in Python (Tk)
+- a project of Data Analysis accessible [here](https://kallebju.github.io/ada-website/)
+- a front-end website accessible [here](https://github.com/MathieuLeclercq/site-de-voyage)
+- a Space Invaders Game in Python (Tk) accesible [here](https://github.com/MathieuLeclercq/Space-Invaders-)
+- a Multimodal Robust Route Planner for the Zürich area: Data Science project on large databases with **PySpark**.
+- a **movie recommender system** project in Scala and **Spark** accessible [here](https://www.github.com/LucasBrazCappelo/MovieRecommenderSystem)
