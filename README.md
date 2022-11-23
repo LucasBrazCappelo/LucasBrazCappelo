@@ -42,11 +42,11 @@ A C++ and Qt project of Maze generation and solving with different exploration a
    
 **But also, in bulk (not exhaustive)**:
 - a **Deep Reinforcement Learning project** accessible [here](https://www.github.com/LucasBrazCappelo/ReinforcementLearningProject).
+- a 3D Game Project on GPU with OpenGL in C++
 - Simulations of physical phenomena by PDE and ODE
-- a small project of 3D game on GPU with OpenGL in C++
-- Computer Vision or Image Processing task as image denoising, image compression...
+- Computer Vision or Image Processing task: image denoising, image compression...
 - a multithreaded Game of Life of Conway project in Python (Tk)
-- a project of Data Analysis accessible [here](https://kallebju.github.io/ada-website/)
+- a Data Analysis project accessible on this website: https://kallebju.github.io/ada-website/
 - a front-end website accessible [here](https://github.com/MathieuLeclercq/site-de-voyage)
 - a Space Invaders Game in Python (Tk) accesible [here](https://github.com/MathieuLeclercq/Space-Invaders-)
 - a Multimodal Robust Route Planner for the Zürich area: Data Science project on large databases with **PySpark**.
