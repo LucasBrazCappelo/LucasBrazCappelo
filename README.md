@@ -3,7 +3,7 @@ Currently **Deep Learning Research Engineer Intern** at **CNRS** (**CREATIS labo
 **I study Computer Science, signal and image processing and Machine Learning.**  
 
 [<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/)**I intend to work as a Deep Learning Research Engineer.** *Or Deep Learning Research Scientist if I apply for a PhD.*    
-*Master's degree graduation date: September 2023. Willing to relocate in Europe, Switzerland, UK, US or Canada.*  
+*Master's degree graduation date: October 2023. Willing to relocate in Europe, Switzerland, UK, US or Canada.*  
 
 I'm deeply passionate by Artificial Intelligence and it's cross-cutting state-of-the-art applications especially involving Deep Reinforcement Learning or for Computer Vision and Image Processing tasks.   
 I enjoy maths, algorithmic and combinatorial problems and simulation modeling.   
