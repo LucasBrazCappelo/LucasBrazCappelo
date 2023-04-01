@@ -1,5 +1,5 @@
 ### Hi! I'm Lucas Braz, an engineering student (MSc) at CPE Lyon with one year of Master exchange at EPFL.
-Currently **Deep Learning Research Engineer Intern** at **CNRS** (**CREATIS laboratory**).   
+Currently **Deep Reinforcement Learning Research Engineer Intern** at **InstaDeep**.   
 **I study Computer Science, signal and image processing and Machine Learning.**  
 
 [<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/)**I intend to work as a Deep Learning Research Engineer.** *Or Deep Learning Research Scientist if I apply for a PhD.*    
