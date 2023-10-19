@@ -1,4 +1,4 @@
-### Hi! I'm Lucas Braz, **Research Engineer** at **InstaDeep**, working mainly on **Deep Reinforcement Learning**.
+### Hi! I'm Lucas Braz, **Research Engineer** at **InstaDeep**, mainly working on **Deep Reinforcement Learning**.
 [<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/) Completed a **Master's degree** (French "Diplôme d'Ingénieur") from CPE Lyon, with 1 year of Master exchange at EPFL.   
 I studied Computer Science, signal and image processing and Machine Learning.  
 
