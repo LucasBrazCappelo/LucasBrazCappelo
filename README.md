@@ -1,12 +1,11 @@
 ### Hi! I'm Lucas Braz, **Research Engineer** at **InstaDeep**, mainly working on **Deep Reinforcement Learning**.
-[<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/) Completed a **Master's degree** (French "Diplôme d'Ingénieur") from CPE Lyon, with 1 year of Master exchange at EPFL.   
-I studied Computer Science, signal and image processing and Machine Learning.  
+[<img align="left" alt="My Linkedin" width="22px" src="linkedin.svg" />](https://www.linkedin.com/in/lucas-braz-cappelo/) During my **Master's degree**, I studied Computer Science, signal and image processing and Machine Learning.  
 
-I'm deeply passionate by Artificial Intelligence and it's cross-cutting state-of-the-art applications especially involving Deep Reinforcement Learning or for Computer Vision and Image Processing tasks.   
+I'm deeply passionate by Artificial Intelligence and it's cross-cutting state-of-the-art applications especially involving Deep Reinforcement Learning.   
 I enjoy maths, algorithmic and combinatorial problems and simulation modeling.   
 More generally, I am interested in consciousness and moral analytic philosophical questions, epistemology and sciences.    
 
-#### Here are some projects that I have done:
+#### Here are some old projects that I have done:
 - [ML_EPFL_Project_2](https://www.github.com/LucasBrazCappelo/ML_EPFL_Project_2)
 
 A Convolutional Neural Network with **Pytorch** to perform semantic segmentation of roads on satellite images.  
